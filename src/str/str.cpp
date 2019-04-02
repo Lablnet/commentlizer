@@ -1,5 +1,5 @@
 /**
- * expection handling.
+ * Str handling.
  *
  * @author   Malik Umer Farooq <lablnet01@gmail.com>
  * @author-profile https://www.facebook.com/malikumerfarooq01/
